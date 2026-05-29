@@ -2,7 +2,7 @@
 
 Real-time AI voice assistant built with React Native, Expo, FastAPI, Groq, Gemini, Edge-TTS, and live websocket audio streaming.
 
-![AlanListening](assets/AlanListening.jpeg)  
+![AlanListening](assets/AlanListening.jpg)  
 
 ---
 
