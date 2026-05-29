@@ -1,7 +1,7 @@
 # Alan AI Assistant
 
 Real-time AI voice assistant built with React Native, Expo, FastAPI, Groq, Gemini, Edge-TTS, and live websocket audio streaming.
-
+![Alan](assets/Alan.jpg)          ![AlanListening](assets/AlanListening.jpg)      ![AlanThinking](assets/AlanThinking.jpg)
 ---
 
 ## Features
